@@ -1,6 +1,6 @@
 ### 0x11. C - printf
 
-This project involves re-writing the `printf` function as it is in C language, it extensively tests our knowledge so far in the [ALX LOW LEVEL PROGRAMMING](https://github.com/mikemater01/alx-low_level_programming). This project is a collaboration by **Gaji Sheyi** and **Tubi Michael**.
+This project involves re-writing the `printf` function as it is in C language, it extensively tests our knowledge so far in the **ALX LOW LEVEL PROGRAMMING**. This project is a collaboration by **Gaji Sheyi** and **Tubi Michael**.
 
 ## DESCRIPTION
 
