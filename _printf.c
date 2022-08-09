@@ -38,7 +38,7 @@ int printIdentifiers(char next, va_list arg)
 
 /**
  * _printf - mimic printf from stdio
- * Description: produces output according to a format
+ * Description: produces output according to nna format
  * write output to stdout, the standard output stream
  * @format: character string composed of zero or more directives
  *
