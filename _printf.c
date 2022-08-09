@@ -1,4 +1,4 @@
-#include "project.h"
+#include "main.h"
 
 /**
  * _printf - prints data and converts formatted output
