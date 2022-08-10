@@ -85,5 +85,5 @@ int printf_dec(va_list args)
 		}
 	}
 	_putchar(last + '0');
-
-	
+	return (i);
+}
