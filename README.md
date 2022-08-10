@@ -1,6 +1,6 @@
 ## 0x11. C - printf
 
-This project involves re-writing the `printf` function as it is in C language, it extensively tests our knowledge so far in the **ALX LOW-LEVEL PROGRAMMING**. This project is a collaboration by **Gaji Sheyi** and **Tubi Michael**.
+This project involves re-writing the `printf` function as it is in C language, it extensively tests our knowledge so far in the **ALX LOW-LEVEL PROGRAMMING**. This project is a collaboration by **Sheyi Gaji** and **Tubi Michael**.
 
 ## DESCRIPTION
 
@@ -14,6 +14,6 @@ This project involves re-writing the `printf` function as it is in C language, i
 
 ## COLLABORATORS
 
-- This project is a put together by **Gaji Sheyi** and **Tubi Michael**.
+- This project is a put together by **Sheyi Gaji ** and **Tubi Michael**.
 
 ### Alx SE cohort 8
